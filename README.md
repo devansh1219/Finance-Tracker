@@ -1,6 +1,6 @@
 This Project is based up on the individual financial tracking. It includes day to day expense tracking, data visualization and limiting the budget controls system.
 
-Advantges Over Linitations...
+Advantges Over Limitations...
 
 1. Better Control Over Money
 finance tracker helps you understand how much money you earn and where you spend it. This gives you complete control over your finances and prevents unnecessary expenses.
